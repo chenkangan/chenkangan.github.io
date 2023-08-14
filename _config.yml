@@ -60,9 +60,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &https://twitter.com/
+  username               : #&https://twitter.com/
 facebook:
-  username               : &https://www.facebook.com/
+  username               : #&https://www.facebook.com/
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -86,7 +86,7 @@ author:
   name             : "Personal information"
   avatar           : "academic50k.png"
   location         : "Beijing"
-  employer         : "AMSS,Chinese Academy of Science"
+  employer         : "AMSS"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   email            : "chenkangan2021@mails.ucas.ac.cn"
