@@ -10,7 +10,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周律邦 / Academics Page"
+title                    : "陈康安 / Academics Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -86,8 +86,8 @@ author:
   name             : "个人信息"
   avatar           : "academic50k.png"
   bio              : "清醒的在这个世界混时度日"
-  location         : "湖南·长沙"
-  employer         : "湖南中医药大学"
+  location         : "北京·海淀"
+  employer         : "中国科学院大学"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   zhihu            : "people/zhoulvbang"
